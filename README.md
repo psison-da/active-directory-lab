@@ -17,3 +17,7 @@ This lab environment was created using VMware Workstation Pro to run multiple vi
 - **Virtual Machine 2:** Windows 11 Pro
 - **Virtual Machine 3:** Windows 11 Pro
 - **Total Virtual Machines:** 3
+
+## Networking and Connectivity Testing
+
+As part of my hands-on lab exercises, I practiced configuring IP addresses on virtual machines and testing network connectivity using the ping command in Windows Terminal. By changing IP address settings, I observed how network configuration affected communication between machines. After making the appropriate adjustments, I successfully received ping replies, confirming network connectivity.
