@@ -17,7 +17,7 @@ Customize hardware
   -4GB RAM
   -2 prcessors
 
-Point to ISO image file
+Point to ISO image image
 
 Close then finish then power on virtual machine
 
@@ -34,3 +34,34 @@ Right-click server tab
   -Settings
   -Hardware
   -turn off side channel mitigation 
+
+From within Workstation Pro created new virtual machines 
+  -typical install
+  -install operating system later
+  -select operating system and version - Windows 11 x64
+
+Name and place where it takes space from(location)
+
+Select only needed files and create password
+
+Select allowcation size(64 recommended) and store disk into single file
+
+Customize hardware
+  -4GB RAM
+  -2 prcessors
+
+Point to ISO image image
+
+When installing Windows 11
+  -select don't have proct key
+  -select Windows 11 Pro - you will be able to work with domains
+
+SAME PROCESS FOR INSTALLATION OF SECOND WINDOWS 11
+
+
+
+
+
+
+
+
