@@ -1,0 +1,36 @@
+Downloaded VMWare Workstation Pro
+
+From Microsoft website downloaded Windows 11 Pro disk image (ISO)
+
+From Microsoft website downloaded Windows Server 2025 disk image (ISO)
+
+From within Workstation Pro created new virtual machines 
+  -typical install
+  -install operating system later
+  -select operating system and version - Windows Server 2025
+
+Name and place where it takes space from(location)
+
+Select allowcation size(60 recommended) and store disk into single file
+
+Customize hardware
+  -4GB RAM
+  -2 prcessors
+
+Point to ISO image file
+
+Close then finish then power on virtual machine
+
+AFTER INSTALLATION:
+
+Click install tools
+
+VM menu 
+  -Install VMWare tools - to seamlessly move from virtual machines to computer
+
+Turn off server
+
+Right-click server tab
+  -Settings
+  -Hardware
+  -turn off side channel mitigation 
