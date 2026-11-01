@@ -1,11 +1,9 @@
 Server name change:  
 
   From within server"  
-  
-  -Click "Computer Name"(leave workgroup as is)  
-  
-  -Click "Change"  
-  -Reboot  
+    -Click "Computer Name"(leave workgroup as is)  
+    -Click "Change"  
+    -Reboot  
   
 
   From client computers:
