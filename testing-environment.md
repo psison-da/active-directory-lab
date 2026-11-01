@@ -6,10 +6,11 @@ Server name change:
     -Reboot  
   
 
-  From client computers:
-  -Rt Click windows icon
-  -Click "System"
-  -Click "Rename this PC" or under related links "Domain or workgroup"
+  From client computers:  
+  -Rt Click windows icon  
+  -Click "System"  
+  -Click "Rename this PC" or under related links "Domain or workgroup"  
+  
 
 From server(change IP address to static IP):
 -Click "assigned by DHCP" in Ethernet0
