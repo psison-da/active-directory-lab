@@ -1,8 +1,12 @@
-Server name change:
-  From within server"
-  -Click "Computer Name"(leave workgroup as is)
+Server name change:  
+
+  From within server"  
+  
+  -Click "Computer Name"(leave workgroup as is)  
+  
   -Click "Change"
-  -Reboot
+  -Reboot  
+  
 
   From client computers:
   -Rt Click windows icon
