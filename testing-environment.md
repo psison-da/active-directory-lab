@@ -4,7 +4,7 @@ Server name change:
   
   -Click "Computer Name"(leave workgroup as is)  
   
-  -Click "Change"
+  -Click "Change"  
   -Reboot  
   
 
