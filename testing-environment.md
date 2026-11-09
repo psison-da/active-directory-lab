@@ -31,6 +31,8 @@ TEST CONNECTIVITY
 -From server, 'Manage', 'Windows Defender Firewall with Advanced Security'
 -Rt click on first option, Properties, 'Firewall State' to off in Domain Profile (from within 'Public Profile' tab as well)  
 -Apply, OK  
--Test by opening command prompt in client and ping server IP  address
+-Test by opening command prompt in client and ping server IP  address  
+
+**WORKGROUP VS DOMAIN**
 
 
