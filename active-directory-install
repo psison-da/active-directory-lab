@@ -1,0 +1,16 @@
+FROM Server:  
+C-From 'Manage', 'Add roles and Features'(wizard pops up)  
+-Keep on role based features  
+-Select 'Active Directory Domain Services', add features  
+-Install(close after installation -DON"T PROMOTE YET-  
+
+-From 'Manage', 'Add roles and Features'(wizard pops up)  
+-Keep on role based features  
+-Select 'DNS server', add features  
+-Install 
+
+-Choose name for domain  
+-Goto 'computer name'  
+-Click 'change', 'more'  
+-'Primary DNS Suffix on This Computer' enter suffix(don't forget to add '.local') 
+-OK, close and restart
