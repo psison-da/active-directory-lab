@@ -26,13 +26,12 @@ firewall
 
 TEST CONNECTIVITY  
 -Open command prompt on server and ping client (ping xxx.xxx.xxx.xxx) or by  computer name  
--If connectivity fails, disable windows firewall on the client computers  '
+-If connectivity fails, disable windows firewall on the client computers  
 -On client computer, go to Control Panel, Windows Defender Firewall, Turn Windows Defender on or off, select 'Turn off Windows Defender Firewall'  
--From server, 'Manage', 'Windows Defender Firewall with Advanced Security'
+-From server, 'Manage', 'Windows Defender Firewall with Advanced Security'  
 -Rt click on first option, Properties, 'Firewall State' to off in Domain Profile (from within 'Public Profile' tab as well)  
 -Apply, OK  
 -Test by opening command prompt in client and ping server IP  address  
 
-**WORKGROUP VS DOMAIN**
 
 
